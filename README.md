@@ -19,18 +19,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
 </div>
 
-###
-
-<div align="right">
-  <a href="https://www.instagram.com/hwlanski?igsh=ajlwaHh4aDVyM2U2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="ghelanski@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-</div>
-
-###
 
 <img align="right" height="150" src="https://maniskappor16.wordpress.com/wp-content/uploads/2014/04/daenerys-targaryen-1.png"  />
 
