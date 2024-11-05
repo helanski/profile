@@ -2,11 +2,12 @@
 
 ###
 
-<h6 align="left">I am currently studying the 3rd year of the IT Technical Course at the Instituto Federal do Paraná - Cascavel campus. <br><br>  I do programming activities dedicated to the subjects of the course's curriculum, with an emphasis on the Course Completion Work.<br><br>  <br>My goal is to ingress in a public University, studying Law. In the future, perhaps, I will also work with Software Engineering, as a second option.</h6>
+<h6 align="center">I am currently studying the 3rd year of the IT Technical Course at the Instituto Federal do Paraná - Cascavel campus. <br><br>  I do programming activities dedicated to the subjects of the course's curriculum, with an emphasis on the Course Completion Work.<br><br>  <br>My goal is to ingress in a public University, studying Law. In the future, perhaps, I will also work with Software Engineering, as a second option.</h6>
 
 ###
 
-<div align="center">
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=helanski&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=helanski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
