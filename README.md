@@ -24,6 +24,6 @@
 
 ###
 
-<h6 align="right">I am currently studying the 3rd year of the IT Technical Course at the Instituto Federal do Paraná - Cascavel campus. <br><br>  I do programming activities dedicated to the subjects of the course's curriculum, with an emphasis on the Course Completion Work.<br><br> ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br><br>My goal is to ingress in a public University, studying Law. In the future, perhaps, I will also work with Software Engineering, as a second option.</h6>
+<h6 align="right">I am currently studying the 3rd year of the IT Technical Course at the Instituto Federal do Paraná - Cascavel campus. <br><br>  I do programming activities dedicated to the subjects of the course's curriculum, with an emphasis on the Course Completion Work.<br><br> ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br><br>My goal is to ingress in a public University, studying Law. 
 
 ###
