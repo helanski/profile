@@ -6,8 +6,8 @@
 
 ###
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=helanski&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=helanski&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=helanski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -25,7 +25,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/hwlanski?igsh=ajlwaHh4aDVyM2U2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
